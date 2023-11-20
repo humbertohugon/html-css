@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+body {
+    margin: 0px;
+}
+
+div#background {
+    width: 100vw;
+    height: 100vh;
+    background: url(imagemhugo.png);
+    background-size: cover;
+}

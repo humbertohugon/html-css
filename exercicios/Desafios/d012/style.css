@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+div#flor {
+    width: 100vw;
+    height: 100vh;
+    background: url(imagens/background001.jpg);
+}
+
+div#img2 {
+    width: 100vw;
+    height: 100vh;
+    background: url(imagens/background002.jpg);
+}
